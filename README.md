@@ -29,7 +29,6 @@
 - [📈 Key Insights](#-key-insights)
 - [🚀 How to Open This Project](#-how-to-open-this-project)
 - [🛠️ Tools Used](#️-tools-used)
-- [🎥 Video Explanation](#-video-explanation)
 - [📄 License](#-license)
 - [👤 Author](#-author)
 - [🙏 Acknowledgements](#-acknowledgements)
@@ -261,14 +260,6 @@ A detailed **table visual** (`Detailed Order Data`) showing Order ID, Order Date
 | 📊 **Power BI Desktop** `[version]` | Data modeling, visuals, and report design |
 | 🔧 **Power Query Editor** | Data cleaning and transformation |
 | 🔀 **Git / GitHub** | Version control and submission |
-
----
-
-## 🎥 Video Explanation
-
-| Item | Detail |
-|------|--------|
-| 🔗 **Video URL** | `[Paste your unlisted YouTube / Google Drive link here]` |
 
 ---
 
