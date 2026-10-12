@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="filter_panel png" src="https://github.com/user-attachments/assets/bfbb17c2-ae94-43fa-983c-cacec33ecacc" /><div align="center">
-
 # -- ! Superstore Sales Dashboard ! --
 ### *Power BI Practical Report 1 (PR 1) — Sales, Profit & Regional Performance*
 
